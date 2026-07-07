@@ -1,0 +1,8 @@
+{
+  "name": "DRAG THE LAKE",
+  "description": "Local-first desktop app for tracking and exploring Shopify store catalogs via the Catalog API / Universal Commerce Protocol.",
+  "url": "https://github.com/cameronsmith/drag-the-lake",
+  "capabilities": [
+    { "name": "dev.ucp.shopping.catalog.search" }
+  ]
+}
